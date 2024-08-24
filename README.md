@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=Roman+|+Howladar&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Roman;I'm+mainly+doing+web+and+mobile+app+development;I'm+a+student+and+working+as+freelance+developer;I'm+interested+in+Blender+and+Unity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Roman;I'm+mainly+doing+web+and+mobile+app+development;I'm+a+student+and+working+as+developer;I'm+interested+in+Blender+and+Unity)](https://git.io/typing-svg)
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=roman0190&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
