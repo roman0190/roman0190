@@ -1,19 +1,24 @@
-<div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=200&section=header&text=Roman+Howladar&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-</div>
+<div align="center" style="position: relative;">
+  <!-- Header with Wave Animation -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=200&section=header&text=Roman+Howladar&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=0F80D7&size=25&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Roman!;A+Full-stack+Web+and+Mobile+Developer;Exploring+Blender+%26+Unity;Innovating+with+Next.js,+Redux,+Three.js+and+more" alt="Typing SVG" />
-  </a>
-</p>
+  <!-- Typing Animation for Introduction -->
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?color=0F80D7&size=25&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Roman!;A+Full-stack+Web+and+Mobile+Developer;Exploring+Blender+%26+Unity;Innovating+with+Next.js,+Redux,+Three.js+and+more" alt="Typing SVG" />
+    </a>
+  </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roman0190&theme=high-contrast&hide_border=true&bg_color=010409&color=39FF14&line=0F80D7&point=ffffff&area=true" width="90%" />
+  <!-- Background Dots Effect -->
+  <div style="background: radial-gradient(circle, #0F80D7 1px, transparent 1px), #282c34; background-size: 10px 10px; padding: 20px; width: 100%; border-radius: 10px;">
+    <!-- Activity Graph -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=roman0190&theme=high-contrast&hide_border=true&bg_color=010409&color=39FF14&line=0F80D7&point=ffffff&area=true" width="90%" />
+  </div>
 </div>
 
 ---
 
+<!-- Github Stats and Languages -->
 <div align="center">  
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Roman0190&theme=high-contrast&show_icons=true&count_private=true&hide_border=true&title_color=0F80D7&icon_color=39FF14&text_color=ffffff&bg_color=010409" alt="Roman's Github Stats" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman0190&theme=high-contrast&layout=compact&hide_border=true&title_color=0F80D7&text_color=ffffff&bg_color=010409&langs_count=6" alt="Top Languages" />
@@ -50,7 +55,7 @@
 </p>
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=120&section=footer"/>
 </div>
 
 ---
@@ -63,9 +68,5 @@
 </p>
 
 <p align="center">
-  Experience the power of text-to-image generation! Type any prompt, and see it transform into a custom AI-generated image. Built with Next.js, Ant Design, and  API for fast and unique visuals.
+  Experience the power of text-to-image generation! Type any prompt, and see it transform into a custom AI-generated image. Built with Next.js, Ant Design, and Korci API for fast and unique visuals.
 </p>
-
-
-
-
