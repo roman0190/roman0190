@@ -1,6 +1,6 @@
 <div align="center" style="position: relative;">
   <!-- Header with Wave Animation -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=200&section=header&text=Roman+Howladar&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=200&section=header&text=Roman+Howladar&fontSize=40&fontColor=f6ff&animation=fadeIn&fontAlignY=35"/>
 
   <!-- Typing Animation for Introduction -->
   <p>
