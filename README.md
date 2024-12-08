@@ -1,72 +1,49 @@
-<div align="center" style="position: relative;">
-  <!-- Header with Wave Animation -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=200&section=header&text=Roman+Howladar&fontSize=40&fontColor=f6ff&animation=fadeIn&fontAlignY=35"/>
+<h2 align="left">Hi 👋! My name is Roman Howladar and I'm a web and app developer , from Bangladesh</h2>
 
-  <!-- Typing Animation for Introduction -->
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?color=0F80D7&size=25&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Roman!;A+Full-stack+Web+and+Mobile+Developer;Exploring+Blender+%26+Unity;Innovating+with+Next.js,+Redux,+Three.js+and+more" alt="Typing SVG" />
-    </a>
-  </p>
-
-  <!-- Background Dots Effect -->
-  <div style="background: radial-gradient(circle, #0F80D7 1px, transparent 1px), #282c34; background-size: 10px 10px; padding: 20px; width: 100%; border-radius: 10px;">
-    <!-- Activity Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=roman0190&theme=high-contrast&hide_border=true&bg_color=010409&color=39FF14&line=0F80D7&point=ffffff&area=true" width="90%" />
-  </div>
-</div>
-
----
-
-<!-- Github Stats and Languages -->
-<div align="center">  
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Roman0190&theme=high-contrast&show_icons=true&count_private=true&hide_border=true&title_color=0F80D7&icon_color=39FF14&text_color=ffffff&bg_color=010409" alt="Roman's Github Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman0190&theme=high-contrast&layout=compact&hide_border=true&title_color=0F80D7&text_color=ffffff&bg_color=010409&langs_count=6" alt="Top Languages" />
-</div>
-
----
-
-### 🚀 Frameworks and Tools:
-<div align="center">
-  <img src="https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-282c34?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-282c34?style=for-the-badge&logo=redux&logoColor=764abc" alt="Redux" />
-  <img src="https://img.shields.io/badge/Three.js-282c34?style=for-the-badge&logo=three.js&logoColor=ffffff" alt="Three.js" />
-  <img src="https://img.shields.io/badge/TypeScript-282c34?style=for-the-badge&logo=typescript&logoColor=007acc" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-282c34?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="TailwindCSS" />
-</div>
-
----
-
-### 🛠️ Platforms & Tools:
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-282c34?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Unity-282c34?style=for-the-badge&logo=unity&logoColor=ffffff" alt="Unity" />
-  <img src="https://img.shields.io/badge/Blender-282c34?style=for-the-badge&logo=blender&logoColor=ff8c00" alt="Blender" />
-  <img src="https://img.shields.io/badge/Linux-282c34?style=for-the-badge&logo=linux&logoColor=fcc624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Android_Studio-282c34?style=for-the-badge&logo=android-studio&logoColor=3ddc84" alt="Android Studio" />
-</div>
-
----
-
-### 🌌 Visitor Count:
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{roman0190}/count.svg" alt="Visitor Count" />
-</p>
+###
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-### 🎨 Text-to-Image Generator AI
-<p align="center">
-  <a href="https://text-to-image-ai-one.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Try%20Live%20Demo-39FF14?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=282c34" alt="Live Demo" />
-  </a>
-</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<p align="center">
-  Experience the power of text-to-image generation! Type any prompt, and see it transform into a custom AI-generated image. Built with Next.js, Ant Design, and Korci API for fast and unique visuals.
-</p>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
